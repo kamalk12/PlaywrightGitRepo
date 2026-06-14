@@ -1,0 +1,10 @@
+{
+  "validLoginData": {
+    "email": "kamal.yuvi12@gmail.com",
+    "password": "Test@1234"
+  },
+  "invalidLoginData": {
+    "email": "invalid@gmail.com",
+    "password": "Invalid@1234"
+  }
+}
